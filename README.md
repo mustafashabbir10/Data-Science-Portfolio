@@ -17,3 +17,6 @@ Repository containing portfolio of data science projects completed by me for aca
 - ### Data Analysis and Visualisation
 
 - ### Micro Projects: 
+    - [Linear Regression using Gradient Descent](https://github.com/mustafashabbir10/Linear-Regression) : This example project demonstrates how Gradient Descent Algorithm may be used to solve Linear Regression problem as Opposed to solving it by Scikitlearn.
+    - [Logistic Regression using Gradient Descent](https://github.com/mustafashabbir10/Logistic-Regression) : This example project demonstrates how Gradient Descent Algorithm may be used to solve Logistic Regression problem as Opposed to solving it by Scikitlearn. Secondly, this project also shows how regularized gradient descent can be used to model non-linear data.
+    

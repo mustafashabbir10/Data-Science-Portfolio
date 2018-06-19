@@ -16,6 +16,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - ### Data Analysis and Visualisation
     - [NYC Limousine & Taxi](https://github.com/mustafashabbir10/New-York-Taxi-Data/blob/master/EDA.ipynb) : In this notebook, I will explore data on New York City Yellow Taxi of September 2015. I have first tried to answer some warm-up questions on the dataset which will be followed by interactive plots using ipython widget. This code is fully written in python and is an initial Exploratory Data Analysis prior to Data Modelling and predictions. The core objective of this repo is to analyse factors for demand for taxis, to find most pickups, most dropoffs, time of most traffic and how to overcome the needs of the public.
+    - [Chicago Cab Data](https://github.com/mustafashabbir10/Chicago-Cab-Data/blob/master/EDA.pdf) : This is a basic EDA on Chicago cab data done on Tableau to see how the prediction variable (customer pickup density) behave with various features and how these features can be cleaned and leveraged in the model to achieve best results. 
 
 - ### Micro Projects: 
     - [Linear Regression using Gradient Descent](https://github.com/mustafashabbir10/Linear-Regression) : This example project demonstrates how Gradient Descent Algorithm may be used to solve Linear Regression problem as Opposed to solving it by Scikitlearn.

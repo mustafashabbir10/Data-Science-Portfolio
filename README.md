@@ -14,6 +14,9 @@ Repository containing portfolio of data science projects completed by me for aca
       
 - ### Natural Language Processing
 
+- ### Time Series Analysis
+    - [Developing Algorithmic Trading Strategies using Python](https://github.com/mustafashabbir10/Algorithmic-Trading) : In this project I have done some common financial analysis such as moving windows, volatility calculation followed by developing a simple momentum strategy, backtesting it and evaluating strategy's robustness and performance.
+
 - ### Data Analysis and Visualisation
     - [NYC Limousine & Taxi](https://github.com/mustafashabbir10/New-York-Taxi-Data/blob/master/EDA.ipynb) : In this notebook, I will explore data on New York City Yellow Taxi of September 2015. I have first tried to answer some warm-up questions on the dataset which will be followed by interactive plots using ipython widget. This code is fully written in python and is an initial Exploratory Data Analysis prior to Data Modelling and predictions. The core objective of this repo is to analyse factors for demand for taxis, to find most pickups, most dropoffs, time of most traffic and how to overcome the needs of the public.
     - [Chicago Cab Data](https://github.com/mustafashabbir10/Chicago-Cab-Data/blob/master/EDA.pdf) : This is a basic EDA on Chicago cab data done on Tableau to see how the prediction variable (customer pickup density) behave with various features and how these features can be cleaned and leveraged in the model to achieve best results. 
@@ -21,5 +24,4 @@ Repository containing portfolio of data science projects completed by me for aca
 - ### Micro Projects: 
     - [Linear Regression using Gradient Descent](https://github.com/mustafashabbir10/Linear-Regression) : This example project demonstrates how Gradient Descent Algorithm may be used to solve Linear Regression problem as Opposed to solving it by Scikitlearn.
     - [Logistic Regression using Gradient Descent](https://github.com/mustafashabbir10/Logistic-Regression) : This example project demonstrates how Gradient Descent Algorithm may be used to solve Logistic Regression problem as Opposed to solving it by Scikitlearn. Secondly, this project also shows how regularized gradient descent can be used to model non-linear data.
-    - [Developing Algorithmic Trading Strategies using Python](https://github.com/mustafashabbir10/Algorithmic-Trading) : In this project I have done some common financial analysis such as moving windows, volatility calculation followed by developing a simple momentum strategy, backtesting it and evaluating strategy's robustness and performance.
     - [NYC-Taxi Fare Amount Prediction](https://github.com/mustafashabbir10/New-York-Taxi-Data): In this project, I explored multiple linear regression and KNN regression to accurately predict the fare amount in NYC taxi dataset.
